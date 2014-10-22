@@ -1,11 +1,10 @@
 Equipment Control Matlab Code:
 ==============================
 This repository contains all the necessary Matlab driver code for controlling specific instruments over the LAN, as well as some example code showing the usage of the drivers.
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 
+### Directory structure:
 The directory is organized as follows:
-
-### Heading?
 
 
 
